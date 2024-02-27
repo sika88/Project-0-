@@ -1,0 +1,114 @@
+nav {
+    padding: 10px;
+    margin: 10px;
+}
+.link {
+   float: right;
+   color: blue;
+   margin-right: 10px;
+   text-decoration: none;
+   font-size: 20px;
+}
+.logo {
+   width: 300px;
+   margin-top: 50px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.bar {
+   width: 550px;
+   height: 40px;
+   border-radius: 25px;
+   margin-top: 30px;
+   background-color: white;
+   align-items: center;
+   margin-left: 500px;
+}
+.box {
+   width: 500px;
+   height: 30px;
+   border: none;
+   outline: none;
+}
+.bar > i {
+   color: grey;
+}
+.button {
+   margin-top: 15px;
+   height: 35px;
+   font-size: medium;
+   border: none;
+   border-radius: 5px;
+}
+ nav {
+    margin: 10px;
+    font-size: x-large;
+}
+
+.logo-0 {
+    width: 100px;
+    margin-left: 0%;
+
+}
+
+.Advanced {
+    color: red;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 12px;
+}
+.bar-0 {
+    width: 600px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 115px;
+    border: 1px solid;
+    border-color: rgb(213, 210, 210);
+}
+.bar-0:focus {
+    color: rgb(88, 111, 245);
+    border: 1px solid;
+    border-color: rgb(88, 111, 245);
+}
+
+.bar-1 {
+    width: 600px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 50px;
+    border: 1px solid;
+    border-color: rgb(213, 210, 210);
+}
+.bar-2 {
+    width: 600px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 92px;
+    border: 1px solid;
+    border-color: rgb(213, 210, 210);
+}
+.bar-3 {
+    width: 600px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 85px;
+    border: 1px solid;
+    border-color: rgb(213, 210, 210);
+}
+.filter {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.button-0 {
+    margin-top: 15px;
+    width: 120px;
+    height: 30px;
+    font-size: medium;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    background-color: rgb(88, 111, 245);
+    margin-left: 740px;
+
+}
